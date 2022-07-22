@@ -1,0 +1,24 @@
+{
+  "name": "private-blockchain-project",
+  "version": "1.0.0",
+  "description": "Udacity's Blockchain Developer Nanodegree learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ykhom/private_blockchain_project.git"
+  },
+  "author": "Yurii Khomitskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykhom/private_blockchain_project/issues"
+  },
+  "homepage": "https://github.com/ykhom/private_blockchain_project#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "level": "^8.0.0",
+    "level-read-stream": "^1.1.0"
+  }
+}
